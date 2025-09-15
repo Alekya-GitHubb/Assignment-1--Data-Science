@@ -1,10 +1,11 @@
-Medium Article Link - https://medium.com/@alekyagudise1008/data-science-walkthrough-crisp-dm-analysis-of-imdb-top-250-movies-3a4f7bbdc70b
-
-ChatGPT Link - https://chatgpt.com/share/68c76c3a-4494-8011-ae70-51753013cf35
 
 # IMDb Top 250 Movies — CRISP-DM Project
 
 This project applies the CRISP-DM methodology to analyze the IMDb Top 250 Movies dataset, exploring data preparation, modeling, evaluation, and deployment.
+
+Medium Article Link - https://medium.com/@alekyagudise1008/data-science-walkthrough-crisp-dm-analysis-of-imdb-top-250-movies-3a4f7bbdc70b
+
+ChatGPT Link - https://chatgpt.com/share/68c76c3a-4494-8011-ae70-51753013cf35
 
 ## Dataset
 - Source: Kaggle — IMDb Top 250 Movies

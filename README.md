@@ -22,6 +22,17 @@ This project applies the CRISP-DM methodology to analyze the IMDb Top 250 Movies
 - **Box Office**: Worldwide gross revenue  
 - **Rating**: IMDb rating (target variable)
 
+## 📊 Visualizations (Reference)
+
+The repository includes several graphs as PNG files for reference:
+
+- Runtime Distribution
+- Feature Correlation Heatmap
+- Model Comparison (RMSE & R²)
+- Box Office vs IMDb Rating
+
+These plots support the data exploration and modeling analysis discussed in this project.
+
 
 ###  Summary Statistics
 - **Runtime**: Average ~129 minutes, range 40–240 minutes (after capping)  
